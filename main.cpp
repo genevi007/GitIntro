@@ -7,7 +7,7 @@ int main() {
   int maximum;
 
   if (nb_valeurs <= 0) {
-    std::cout << "Petit comique !";
+    std::cout << "Petit comique :)!";
     std::cout << std::endl;
     return 1;
   }

@@ -16,7 +16,6 @@ int main() {
     std::cout << std::endl;
     return 1;
   }
-
   // Allocation dynamique de la mémoire.
   valeurs = new int[nb_valeurs];
 
@@ -36,7 +35,6 @@ int main() {
       maximum = valeurs[i];
   }
 
-  // Affichage des résultats.
   std::cout << "Min = " << minimum;
   std::cout << std::endl;
   std::cout << "Max = " << maximum;

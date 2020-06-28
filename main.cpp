@@ -16,7 +16,7 @@ int main() {
     std::cout << std::endl;
     return 1;
   }
-  // Allocation dynamique de la mémoire.
+  // Allocation dynamique de la mémoire...
   valeurs = new int[nb_valeurs];
 
   // Entrée des valeurs.

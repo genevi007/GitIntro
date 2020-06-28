@@ -1,2 +1,2 @@
 # GitIntro
-Intro git et github
+Intro git et github: Insertion plusieurs fichiers

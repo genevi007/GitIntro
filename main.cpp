@@ -28,9 +28,9 @@ int main() {
       maximum = valeurs[i];
   }
 
-  std::cout << "Min = " << minimum;
+  std::cout << "Minimum = " << minimum;
   std::cout << std::endl;
-  std::cout << "Max = " << maximum;
+  std::cout << "Maximum = " << maximum;
   std::cout << std::endl;
 
   delete[] valeurs;
